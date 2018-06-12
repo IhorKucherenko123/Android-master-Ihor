@@ -1,1 +1,1 @@
-# Android-master-Ihor
+Android code commits for posts on shardulprabhu.blogspot.com
